@@ -33,7 +33,7 @@ Follow these steps to run the project on your local machine:
 git clone https://github.com/SathishS24d/Weather_Forcast.git
 
 # Step 2: Navigate into the project directory
-cd weather_forcast_application
+cd Weather_Forcast
 
 # Step 3: Install the dependencies
 npm install
